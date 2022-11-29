@@ -1,0 +1,51 @@
+p {
+  color: red;
+}
+
+a {
+  color: rgb(225, 24, 121);
+}
+
+li {
+  color: blueviolet;
+}
+
+html {
+  font-size: 15px;
+  /* px значит 'пиксели': базовый шрифт будет 10 пикселей в
+   высоту */
+  font-family: 'Roboto', sans-serif;
+  background-color: azure;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #FFE4B5;
+  padding: 0 20px 20px 20px;
+  border: border 2px solid white;
+}
+
+h1 {
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 2px 2px 1px white;
+}
+
+h2 {
+  margin: 0;
+  padding: 20px 0;
+  text-shadow: 2px 2px 1px rgb(204, 37, 179);
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+}
+
+.att {
+  color: rgb(17, 24, 141);
+  background-color: azure;
+  font-size: large;
+}
